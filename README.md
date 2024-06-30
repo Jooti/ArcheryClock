@@ -6,10 +6,14 @@ https://wokwi.com/projects/383802552909274113
 Using Archery Clock
 ------
 Archery Clock is so simple, It has two buttons: 
+
   1. Start / Stop button: Start count down time or emergency stop of the shooting line.
+
   2. Configuration button: Change the timer duration (90, 120, 180, 240, 30)
+
 In the [simulation] the start button is above the config button.
 Using the configuration button set the appropriate time and then press the start button. It would play a double beep for the archers to get in the shooting line and after ten seconds the single beep of shooting would be sounded.
+
 There would be a single short beep for warning of 30 sec remaining at all configurations except for the 30 seconds itself.
 When the time is up or the start button is pressed again, the three beeps of time up are played.
 
